@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">droidcon Lisbon</string>
+
+    <!-- toolbar -->
+    <string name="toolbar_schedule">Schedule</string>
+    <string name="toolbar_favourites">Favourites</string>
+    <string name="toolbar_speakers">Speakers</string>
+    <string name="toolbar_venue">#droidconLX</string>
+
+    <!-- navigation -->
+    <string name="navigation_schedule">Schedule</string>
+    <string name="navigation_favourites">Favourites</string>
+    <string name="navigation_speakers">Speakers</string>
+    <string name="navigation_venue">Venue</string>
+
+    <!-- content -->
+    <string name="schedule_loading">Loading data…</string>
+    <string name="schedule_empty">No schedule information. Swipe to refresh.</string>
+
+    <string name="favourites_empty">No favourite talks</string>
+
+    <string name="speakers_loading">Loading data…</string>
+    <string name="speakers_empty">No speakers information. Swipe to refresh.</string>
+
+    <string name="venue_location">Faculdade de Ciências da Universidade de Lisboa,
+        Alameda da Universidade, Edifício C3,
+        1649–004, Lisboa</string>
+    <string name="venue_maps">Map</string>
+    <string name="venue_maps_link">https://www.google.pt/maps/place/Faculdade+de+Ci%C3%AAncias+da+Universidade+de+Lisboa/@38.7543484,–9.1597464,17z/data=!4m8!1m2!2m1!1sFaculdade+de+Ci%C3%AAncias+da+Universidade+de+Lisboa++Alameda+da+Universidade,+Edif%C3%ADcio+C3++1649-004,+Lisboa!3m4!1s0xd1932fc1d6c5e9b:0xe04b42461bdb164c!8m2!3d38.7559988!4d-9.1569597</string>
+    <string name="venue_website">Website</string>
+    <string name="venue_website_link">https://www.lisbon.droidcon.com</string>
+    <string name="venue_twitter">Twitter</string>
+    <string name="venue_twitter_link">https://twitter.com/droidconLisbon</string>
+
+    <string name="venue_information">Information</string>
+    <string name="venue_information_description">Droidcon Lisbon will take place in the 1st floor of the C3 building. Registration and Check-in is on the ground floor. Sessions, exhibits and networking on the 1st floor. Lunch will be held in the C7 building.</string>
+
+    <string name="app_title">Droidcon Lisbon App</string>
+    <string name="app_description">This application was made for Droidcon Lisbon 2019 as a showcase of the potential of Kotlin Multiplatform. \n\nYou can find the project on <a href="https://github.com/cmota/droidconLX">GitHub</a> or DM me directly on <a href="https://twitter.com/cafonsomota">Twitter</a></string>
+
+    <string name="talk_duration">%1$s - %2$s</string>
+    <string name="talk_duration_not_available">Time not available</string>
+
+    <string name="talk_time_and_room">%1$s / %2$s</string>
+
+    <string name="speaker_events">Events</string>
+    <string name="session_speakers">Speakers</string>
+
+    <!-- content description -->
+    <string name="hint_speaker_bio">Speaker Bio</string>
+    <string name="hint_speaker_image">Speaker Image</string>
+    <string name="hint_speaker_name">Speaker Name</string>
+    <string name="hint_speaker_talk">Speaker Talk</string>
+
+    <string name="hint_session_title">Session Title</string>
+    <string name="hint_session_description">Session Description</string>
+    <string name="hint_session_time">Session Time</string>
+    <string name="hint_session_room">Session Room</string>
+    <string name="hint_session_type">Session Type</string>
+    <string name="hint_session_timeslot">08:00</string>
+    <string name="hint_session_category">Category</string>
+    <string name="hint_session_placeholder">8:00 AM - 8:40 AM</string>
+    <string name="hint_session_add_to_favourites">Add to favourites</string>
+
+    <string name="hint_event_image">Event image</string>
+</resources>
